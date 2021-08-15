@@ -1,0 +1,9 @@
+{
+  "name": "newsgun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CORDEA/newsgun.git",
+  "author": "Yoshihiro Tanaka <contact@cordea.jp>",
+  "license": "Apache-2.0",
+  "private": true
+}
